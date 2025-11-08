@@ -1,3 +1,5 @@
+// 깃허브 액션 설정을 위한 백엔드 인덱스 파일
+
 const express = require('express');
 const mysql = require('mysql2/promise');
 require('dotenv').config();
